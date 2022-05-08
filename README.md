@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href=" https://github.com/Marcoshlp18" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"_blank"></a>
   
- ![Snake animation](https://github.com/Marcoshlp18/Marcoshlp18/blob/output/github-contribution-grid-snake.svg)
+ 
   
 </div>
     
