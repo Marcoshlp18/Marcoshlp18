@@ -1,7 +1,7 @@
 ## Olá eu sou o Marcoshlp18
 
 - 🔭 Pretendo trabalhar com Front-End
-- 🌱 Estudando HTML,CSS.
+- 🌱 Estudando HTML,CSS,JavaScript
 
 <div align="center">
   <a href="https://github.com/Marcoshlp18">
