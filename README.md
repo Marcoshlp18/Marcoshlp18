@@ -12,7 +12,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Marcoshlp-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcoshlp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcoshlp-Js" height="30" width="40" src="https://trickdroid.org/wp-content/uploads/2019/12/Sobre-JavaScript-Definicao-Historia-Usos-e-Forcas.png">
+  <img align="center" alt="Marcoshlp-Js" height="30" width="40" src="https://cdn.iconscout.com/icon/premium/png-64-thumb/code-4192367-3470746.png">
   
 ##
   
